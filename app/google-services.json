@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446381665811",
+    "project_id": "ice4-785bf",
+    "storage_bucket": "ice4-785bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446381665811:android:96355c8f7d95b42a6119e6",
+        "android_client_info": {
+          "package_name": "com.example.ice4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYTlV5hwyPZTWgWt5Mb6vknXGmGn8N5Y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
